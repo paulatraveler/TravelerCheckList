@@ -1,0 +1,1636 @@
+[
+    {
+        "id": "9DC6D7CB-B8E6-4654-BAFE-E89ED7B0AF94",
+        "name": "Africa",
+        "items": [
+            {
+                "id": "59B88932-EBDD-4CFE-AE8B-D47358856B93",
+                "name": "Algeria"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "E124AA01-B66F-42D0-B09C-B248624AD228",
+                "name": "Angola"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "EF11D229-0B2F-484E-8A3F-2728035D0843",
+                "name": "Benin"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "81B5D5E9-B1CA-46CB-AF7D-8AD705ECD28F",
+                "name": "Botswana"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "77C64564-9FD5-46CE-8D0C-A6DFFD2E2194",
+                "name": "British Indian Ocean Territory"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "5974CA01-5CD0-461B-B94E-1EDC9364DE57",
+                "name": "Burkina Faso"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "429D4B0E-6D2A-4B97-92EA-25B6C1D08CE6",
+                "name": "Burundi"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "F7D85DD6-F639-4C2F-8D27-E03C3D6216B8",
+                "name": "Cameroon"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "80145714-10CC-450F-B015-2CCA7FCFE5DD",
+                "name": "Cape Verde"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "ACCAD49E-BC5E-430B-A4CD-9DC808663540",
+                "name": "Central African Republic"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "62894DFE-2A36-4370-AB1E-6DEA80F89539",
+                "name": "Chad"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "49EACAB7-6706-4BEA-859C-3E238BCD7E13",
+                "name": "Comoros"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "CB57E023-17DF-4518-B8EA-CD86D1981BFE",
+                "name": "Congo"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "C8F7C224-938B-4F45-8EB9-D1635D9F970B",
+                "name": "Djibouti"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "43E5419C-D3F3-492A-B45F-02AAED7B1468",
+                "name": "Egypt"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "E9D30C6C-80FD-47DA-9256-26094DAFDF74",
+                "name": "Equatorial Guinea"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "F780C2A1-9985-42F8-814D-7F7961989CC0",
+                "name": "Eritrea"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "2CB21BE4-78BC-4DED-89D6-39A6C191EFB8",
+                "name": "Ethiopia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "6B59590D-1878-4710-88E3-4325A2A9198D",
+                "name": "Gabon"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "1F8C20CC-CE6F-45DD-AF47-0A27269E88C0",
+                "name": "Gambia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "6F831BCA-5198-4A98-AF63-01A2A2BBB03B",
+                "name": "Ghana"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "FDA47949-AC36-412E-B41E-B16B4ACAA763",
+                "name": "Guinea"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "595A6C69-C914-4234-BEFF-B6E130FCF634",
+                "name": "Guinea-Bissau"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "8B58189B-677D-4920-A8AC-5E29E1EFCCF2",
+                "name": "Ivory Coast"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "C65CF5E8-0EA2-4E48-A7A5-F744D7CC94A1",
+                "name": "Kenya"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "6D064B70-DA24-44D0-86B6-D74C35D2C991",
+                "name": "Lesotho"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "1F2550B4-6885-4F44-B543-ADD940F18256",
+                "name": "Liberia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "3D4CE47C-AC86-408D-AA8F-E921A7112FF2",
+                "name": "Libyan Arab Jamahiriya"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "A7250A53-B1C6-4453-A4A4-FE14D14B5276",
+                "name": "Madagascar"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "B10A3DAE-5660-4D5D-9941-7FD0A579FFA7",
+                "name": "Malawi"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "43B832E6-83B3-44E2-9069-7B46A2479FD4",
+                "name": "Mali"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "19DAE6B0-9D82-4AFF-BC83-3D2592E44BC9",
+                "name": "Mauritania"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "94455329-6055-4E02-8047-673E1CE67676",
+                "name": "Mauritius"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "EE0D60FC-E8CD-4D5F-BFC4-71878563F719",
+                "name": "Mayotte"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "B9F6857B-1564-45FE-8EB9-8B1617BA6C4C",
+                "name": "Morocco"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "82E8B059-45A1-4345-B64C-8DB884820A9A",
+                "name": "Mozambique"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "75FA3589-0369-4D13-A7F2-93DFCCDED038",
+                "name": "Namibia"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "ADE7CCC9-B255-4487-881E-8411F04056A5",
+                "name": "Niger"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "62CF6F3D-077A-4965-AACF-B7488C1D5687",
+                "name": "Nigeria"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "AC3631CE-85B2-4F18-9214-DD60F9CF56BC",
+                "name": "Reunion"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "E5918BF9-1D6E-4BD9-9B1B-D1DA052E9D9A",
+                "name": "Rwanda"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "F19DDC0C-EAB2-49AF-8060-EC5967953411",
+                "name": "Saint Helena"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "CCA449DB-B956-4C28-AC4E-C994B84B2248",
+                "name": "Sao Tome and Principe"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "76880B57-F672-4576-8328-5ED3C7038057",
+                "name": "Senegal"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "AE899C99-209C-4632-972D-06814EE626BD",
+                "name": "Seychelles"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "2FCCA4DC-9928-44C5-899A-218A484E0F5A",
+                "name": "Sierra Leone"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "EE114984-B738-44B2-A9A1-FB297A02FD63",
+                "name": "Somalia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "F98A0440-6C60-4F01-8CD5-10CABD320CEF",
+                "name": "South Africa"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "9AD66419-1935-4ABB-BB98-F413D9C905CA",
+                "name": "South Sudan"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "1EDB57A6-F3BD-46F0-9390-8E337ECEA844",
+                "name": "Sudan"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "39ED34C1-0FAA-4FD6-91C3-C4C1BD1CC4BB",
+                "name": "Swaziland"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "894231D9-F9FB-4994-BD3D-7F1E659AD7A6",
+                "name": "Tanzania"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "BD12EC62-BFB7-46B6-B98E-0C73F925D458",
+                "name": "The Democratic Republic of Congo"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "C0E02F0E-03F2-4764-97A6-85E13AD0A8A2",
+                "name": "Togo"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "34277A57-EC5E-4FF1-8CD5-8BD2B6D0D485",
+                "name": "Tunisia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "285CF4DF-308C-4A71-AED6-CD87C6E28DDF",
+                "name": "Uganda"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "A9CB7FE7-AA51-4B9E-A457-F8AA6AB67D5E",
+                "name": "Western Sahara"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "432980F0-4EEC-4A31-863A-90C405C9EE8B",
+                "name": "Zambia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "B2303A7D-8482-4A48-B091-CA619C82E965",
+                "name": "Zimbabwe"
+                ,
+                "isOn": false
+                
+            }
+        ]
+    },
+    {
+        "id": "7A1C68CF-C676-4872-A59F-2571F4479FDC",
+        "name": "Antarctica",
+        "items": [
+            {
+                "id": "D2A23FD8-B458-4042-8983-57A53E35E42B",
+                "name": "Antarctica"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "CA125B8C-02EB-46DB-9370-38AD1720319A",
+                "name": "French Southern territories"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "8F5D8D99-7073-4642-AA4E-24B894C5D78B",
+                "name": "Heard Island and McDonald Islands"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "343EF332-15C2-4DE1-9420-C553D255D89D",
+                "name": "South Georgia and the South Sandwich Islands"
+                ,
+                "isOn": false
+                
+            }
+        ]
+    },
+    {
+        "id": "EABAAC7A-8014-4D5A-AB27-B02396896F52",
+        "name": "Asia",
+        "items": [
+            {
+                "id": "55D63392-5299-4C5D-9089-A7E4FA1252DF",
+                "name": "Azerbaijan"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "6984A8F4-07CD-4029-90DF-EE1B97286813",
+                "name": "Bangladesh"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "7AB9516A-47A4-47B2-9D0B-A97640EFFFFC",
+                "name": "Bhutan"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "A0AB6D44-149B-4BB1-86D1-90D724C4909C",
+                "name": "Brunei"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "28C3FA8C-6E38-40DF-8663-997417EBE65B",
+                "name": "Cambodia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "4BE7ED6A-E6E3-4CD8-9EF9-C0C3C733D310",
+                "name": "China"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "D1A99481-88B0-4A18-83A4-F0EE1FCD2D4D",
+                "name": "Cyprus"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "06856381-97F8-403E-9F59-2F54D46F4A94",
+                "name": "Hong Kong"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "C22D96DB-AE07-4F44-BE78-29684C1AC8D2",
+                "name": "East Timor"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "2B980ECC-CD51-489F-99AF-A6F9E58346AF",
+                "name": "Georgia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "FCAC8DAA-4323-4DED-B288-51CE52B3DFCB",
+                "name": "India"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "6EF86605-2B0C-4638-A089-5FAF52BC667C",
+                "name": "Indonesia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "D21FD2F4-FF4E-4C88-B76D-5697B545CB68",
+                "name": "Iran"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "458AF08C-D0E3-4E92-900B-FADC58026792",
+                "name": "Iraq"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "5D903E89-1C43-47F6-9FE3-814580ABD342",
+                "name": "Israel"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "B72685A9-482B-4FD6-BD1B-A01C7F585F42",
+                "name": "Japan"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "5DA60772-540E-477F-BDCC-EDF0080B9D1A",
+                "name": "Jordan"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "8F0977A5-7D26-4346-A9C6-E18DC901C53F",
+                "name": "Kazakhstan"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "9F76E73A-62CC-459D-8037-549FB74A5B4E",
+                "name": "Kuwait"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "C2FF52C6-46C6-40EA-9B96-D43D460FEF98",
+                "name": "Kyrgyzstan"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "3F0A80C0-DEB6-4658-A379-A8739BF124DE",
+                "name": "Laos"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "52489F1D-911B-4AB2-A8C4-7C2AC6708EBB",
+                "name": "Lebanon"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "29F3F29D-BF89-478C-A79D-539387871A10",
+                "name": "Macao"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "8EEDF590-163E-430A-8C33-F44CEEFBC07D",
+                "name": "Malaysia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "AA191209-063B-4F66-8F2A-CAFA0A6D9486",
+                "name": "Maldives"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "4146C05E-BD48-42F2-BF37-16D413DA65A4",
+                "name": "Mongolia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "A72EAD7A-EC3F-4D36-AFC4-7872FA739326",
+                "name": "Myanmar"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "632FE0B8-0675-4307-B93D-BF518C1B4FC7",
+                "name": "Nepal"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "57335D91-8F78-438B-9177-E046FE876973",
+                "name": "North Korea"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "1A324433-BCE3-4736-87E1-E60DC7885FBF",
+                "name": "Oman"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "8444AA67-D03C-4735-9ABE-5341EF8FCF05",
+                "name": "Pakistan"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "26652953-A4BB-4710-B090-D1657035B99F",
+                "name": "Palestine"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "0ADC1C54-7E61-41A9-8917-FA13303C3A2C",
+                "name": "Philippines"
+                ,
+                "isOn": false
+            },
+            
+            {
+                "id": "03C6B25B-6B69-4D4D-9A4D-425479D11617",
+                "name": "Qatar"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "A8BA8CBD-C77D-421F-803A-B29D5AF349CB",
+                "name": "Saudi Arabia"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "F4943B92-9BF3-4D24-8939-04AF413B0BEE",
+                "name": "Singapore"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "2EA8B1D3-C8A8-48AC-8FB8-F169EA2B1CE0",
+                "name": "South Korea"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "64F20CCF-9A20-4D44-A4C2-186BEF1F02A2",
+                "name": "Sri Lanka"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "BB47142F-3954-4FCA-9E31-F20299220049",
+                "name": "Syria"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "7B8C4E51-5FC9-4FA6-927E-46111C0B2DD4",
+                "name": "Tajikistan"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "525D6B12-66B6-43D4-B2DE-BCEDCDF4851D",
+                "name": "Thailand"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "89BFFCCB-83E4-4839-9AB3-6E850DA28200",
+                "name": "Turkey"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "29157F16-D277-4A19-9868-72551ABC5EDE",
+                "name": "Turkmenistan"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "17B6A3A8-049F-4831-AADB-F2E9D4CEE9D5",
+                "name": "United Arab Emirates"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "8449220D-B826-4961-9236-AEDDC8142A7B",
+                "name": "Uzbekistan"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "781D7E0B-12B5-4481-AF77-084C92793EF9",
+                "name": "Vietnam"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "462B2CB3-D522-4C91-A19D-F032B8B7895F",
+                "name": "Yemen"
+                ,
+                "isOn": false
+            }
+        ]
+    },
+    {
+        "name": "Europe",
+        "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A61",
+        "items": [
+            {
+                "id": "DADE6353-BF15-407A-8331-1239A7457138",
+                "name": "Albania"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "FAB900AD-F2CD-4347-AE3A-82F94F440D84",
+                "name": "Andorra"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "A16B0456-A35F-40F0-A606-FA9643D24DA6",
+                "name": "Austria"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "16359CE6-E96B-4547-BC36-725E476CC7C5",
+                "name": "Belarus"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "79D4DD7A-C1D8-4A71-B91B-4CF9A5920333",
+                "name": "Belgium"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "5E2670A2-DA86-44B3-A420-98A97C2046AD",
+                "name": "Bosnia and Herzegovina"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "31B05504-0B7E-4656-BDD9-BE4C32951AEB",
+                "name": "Bulgaria"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "85A3F7E8-49ED-4923-9E79-74429B244B82",
+                "name": "Croatia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "EB5E966F-B901-4C85-A717-409296B0171B",
+                "name": "Czech Republic"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "83179FF3-6B45-4FA0-A366-F7EDF14EA517",
+                "name": "Denmark"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "718C80BF-21B0-4870-B55F-4C9C953D91CD",
+                "name": "England"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "9359040D-BFB6-4F85-9BB1-6A19AE600019",
+                "name": "Estonia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "D6384C05-E2E4-4D94-8BFB-E59619283DE9",
+                "name": "Faroe Islands"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "864F40C0-497F-4E28-88ED-BBC221F75E63",
+                "name": "Finland"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "38D9DC71-C121-485E-A15B-23AF3A3E9887",
+                "name": "France"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "347329E5-E5A2-4F8E-A563-C2520775718C",
+                "name": "Germany"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "9FDCE8A5-8966-493E-8271-DBF760D55470",
+                "name": "Gibraltar"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "DA372DB0-96D1-471F-B214-BBDFB041C972",
+                "name": "Greece"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "16DF5AEF-67F1-4FD8-8DBE-4DB8E67AE9E7",
+                "name": "Holy See (Vatican City State)"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "54E98120-6AF8-4D70-895C-E8A730C9F52F",
+                "name": "Hungary"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "D8333060-244C-45AA-ABED-B664CED3760A",
+                "name": "Iceland"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "32E4A54A-9E3D-4E73-A9C9-6E08C520917A",
+                "name": "Ireland"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "0A3C42FA-B460-4722-BB70-02D0A38838EB",
+                "name": "Italy"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "98CB33DA-6AE9-4929-AE29-F3B8F1AFA352",
+                "name": "Latvia"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "53D2DAF1-E613-47A6-8D17-402815351035",
+                "name": "Liechtenstein"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "74F5A3BE-994A-47DC-B531-BA0422509684",
+                "name": "Lithuania"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "D0899819-6740-4DF2-B2BE-34EE56E760D7",
+                "name": "Luxembourg"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "210ED56A-4C64-45FB-8253-CC81143E1DE0",
+                "name": "North Macedonia"
+                ,
+                "isOn": false
+                
+            },
+            {    "id": "C1CF7DCE-4EDF-494E-A0AD-51C50730E5F1",
+                "name": "Malta"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "6C7908E3-F3A0-43DB-8353-3E451F82C44D",
+                "name": "Moldova"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "BEC2AF56-C8B4-4EAF-BE34-ADE930B85B8B",
+                "name": "Monaco"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "A759EF15-2364-4658-BB24-44D6B4ED26C3",
+                "name": "Montenegro"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "D2E91B76-5148-4E67-950C-1862029440CD",
+                "name": "Netherlands"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "D04C26F8-5115-41CF-AAD5-5C2CFD861509",
+                "name": "Northern Ireland"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "300D16FD-1ECF-4AD6-9B02-612734C4E0A1",
+                "name": "Norway"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "948B7576-1D3C-4473-AB90-696A08BBB90C",
+                "name": "Poland"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "3F652AFB-44E6-4D37-B70D-C9A355B51CF3",
+                "name": "Portugal"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "DD44EC39-C796-4190-AD0A-63593EB645DA",
+                "name": "Romania"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "D04AEAE3-1CAF-40FF-981D-9932C721E749",
+                "name": "Russian Federation"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "3952F4D6-F6D4-44CF-97B9-A3B570853EFF",
+                "name": "San Marino"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "E32DC799-E592-4B14-83CF-3D6F863BC174",
+                "name": "Scotland"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "962932C3-C95A-42A4-94AC-1F9DA9AD7A47",
+                "name": "Serbia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "C3A9266E-5EF8-4F53-9424-C314A7F1C89F",
+                "name": "Slovakia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "7F09765D-3864-461F-BFAA-180FA6B71861",
+                "name": "Slovenia"
+                ,
+                "isOn": false
+                
+            },{
+                "id": "D1F1CC8F-45A8-4E25-B260-48B7E927C543",
+                "name": "Spain"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "40100DB9-671C-414F-95CA-AC43D547D441",
+                "name": "Svalbard and Jan Mayen"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "9DA30E16-8235-4482-B39E-B1B4BCB06921",
+                "name": "Sweden"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "2C785A3B-4C05-40FF-B714-143F9AEC9684",
+                "name": "Switzerland"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "77A80215-1E34-4992-B249-7E8DBE0512C8",
+                "name": "Ukraine"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "87F33C8E-D4B6-45F4-9072-767B1AC8A10D",
+                "name": "United Kingdom"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "3BC6028B-D1B3-48C9-A75E-BC9B2387CE82",
+                "name": "Wales"
+                ,
+                "isOn": false
+            }
+        ]
+    },
+    {
+        "name": "North America",
+        "id": "E7BDE868-2146-40FE-A1F7-B600A1C48281",
+        "items": [
+            {
+                "id": "5214C243-D503-4C58-BA56-BAB91D0DD1FD",
+                "name": "Anguilla"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "8AF35239-9423-420F-96B5-AB640BFE7256",
+                "name": "Antigua and Barbuda"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "47034054-E121-4F7C-9EAE-EB805FD1DA07",
+                "name": "Aruba"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "0548B553-A1DF-4584-B314-66197381AFBE",
+                "name": "Bahamas"
+                ,
+                "isOn": false
+            },
+            {   "id": "C17A4CCB-2BFC-4AFF-82F1-DCA7B5BFA4A1",
+                "name": "Barbados"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "610540A1-1D05-4182-8757-BBE5EBE8D3B9",
+                "name": "Bermuda"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "F052E184-59FC-4640-9265-9BD111312E21",
+                "name": "Belize"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "E3B739E6-E288-4589-9BFE-98CCB077D197",
+                "name": "Canada"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "635EB42B-06EE-49C6-ACBB-7ED3BF4CDBA9",
+                "name": "Cayman Islands"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "EB70E921-C012-4608-A947-FA05792A6C00",
+                "name": "Costa Rica"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "6641EAE3-133F-418A-B160-2A5F44E828F9",
+                "name": "Cuba"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "1EA941E5-9526-43A4-9CE5-E1D42F2499D1",
+                "name": "Dominica"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "57F2C662-7A15-4E4F-B2BA-3197042CD842",
+                "name": "Dominican Republic"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "F1A8A909-FE70-409C-BA97-25FFB8324D1C",
+                "name": "El Salvador"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "D40C2788-BCB7-4268-BF53-83774FC6051E",
+                "name": "Greenland"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "B02218F8-518C-46BA-AB74-3754C6468FAF",
+                "name": "Grenada"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "B8F3478C-0A6D-48CC-89A5-2E0F7811B915",
+                "name": "Guadeloupe"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "15104CF6-D1A6-4EE2-A3D7-042AE9AEADE4",
+                "name": "Guatemala"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "AB2BB48B-24C6-4FAD-B5E9-ADE059595E99",
+                "name": "Haiti"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "7566FB70-76A8-4C87-BED0-AEE901DF8D44",
+                "name": "Honduras"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "3FA6D0EA-DEA3-4546-913D-ECB9F5B074C5",
+                "name": "Jamaica"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "84433DBF-0A29-4850-84FC-215A2D61A84B",
+                "name": "Martinique"
+                ,
+                "isOn": false
+            },
+            
+            {
+                "id": "E6898F6D-33E8-4CC2-991C-0DCF6368850C",
+                "name": "Mexico"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "708FBB2E-915A-402E-995F-6C63F0FB0321",
+                "name": "Montserrat"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "BEE54686-58E8-4C18-9AB0-2CA9E399FF87",
+                "name": "Netherlands Antilles"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "4C44FE52-A6D9-4FCD-9964-9F4B043AEE5C",
+                "name": "Nicaragua"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "594913A7-72C1-4639-BFD6-542085BE8A61",
+                "name": "Panama"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "EF18A307-EAEF-4630-94E2-F7FFD878D5FE",
+                "name": "Puerto Rico"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "4173548E-A28B-40CC-B070-C30DE8A4B7DE",
+                "name": "Saint Kitts and Nevis"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "5B7DCC11-8B72-4890-B886-8E625631DBAF",
+                "name": "Saint Lucia"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "F6A92584-9EAE-426D-ACB7-9E04488CB39C",
+                "name": "Saint Pierre and Miquelon"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "00235A5F-44B1-4C1C-944E-254041F36760",
+                "name": "Saint Vincent and the Grenadines"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "6EE03FA8-CB5A-495C-A5A5-631985CFDB61",
+                "name": "Trinidad and Tobago"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "F83A9484-0468-4F7B-A44C-BA4D71B81A25",
+                "name": "Turks and Caicos Islands"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "02D28966-EB34-428D-8CC9-0108467AF001",
+                "name": "United States"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "FBC63A06-B43B-46C4-A91C-01801342D301",
+                "name": "Virgin Islands, British"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "D8F95B5D-A93C-4516-8B65-E72FB4837734",
+                "name": "Virgin Islands, U.S."
+                ,
+                "isOn": false
+            }
+            
+        ]
+    },
+    {
+        "name": "Oceania",
+        "id": "4E46245D-D34D-4E01-A467-BF6BCF89E3F0",
+        "items": [
+            {
+                "id": "E3A2F10C-C970-4031-8A94-978276498A7B",
+                "name": "American Samoa"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "B9DECD35-D5EA-4DA6-84E2-55CDE0DE7FA8",
+                "name": "Australia"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "FA456EC7-D4CC-4E70-BA04-023FC285A325",
+                "name": "Christmas Island"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "C2DF7309-5BFA-44D7-97B6-0E7E4F25A9FB",
+                "name": "Cocos (Keeling) Islands"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "27C2B84E-3C22-46BE-A29E-74C516227D92",
+                "name": "Cook Islands"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "6E74DFDA-1C62-44B9-B0D6-0796C64BB5FA",
+                "name": "Fiji Islands"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "13BC1539-E88C-4EC0-8A2F-A3629E2DE512",
+                "name": "French Polynesia"
+                ,
+                "isOn": false
+                
+            },
+            {   "id": "9EB24F13-A459-4A1A-B59E-79A78289EC66",
+                "name": "Guam"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "C1B61332-2E4A-431D-8087-6AE86E935296",
+                "name": "Kiribati"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "2DE8568D-39CC-4145-807A-77C1B399663A",
+                "name": "Marshall Islands"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "1AA9E32D-9169-447E-9EFD-E8CE33626DF4",
+                "name": "Micronesia, Federated States of"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "144B3951-CA58-4FCD-90F6-D51FDABC9A3D",
+                "name": "Nauru"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "115FFABC-8F1B-487A-839E-6FDA829C5215",
+                "name": "New Caledonia"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "D5B91D50-A993-40D5-88F5-554115976B92",
+                "name": "New Zealand"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "F0B0DE94-4692-4CF4-A351-5D6156C9A3B4",
+                "name": "Norfolk Island"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "CCFA9B97-EFDA-41F8-AB96-969FFBBF851C",
+                "name": "Niue"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "D00BF0C7-EE92-4797-8D79-206227915B5A",
+                "name": "Northern Mariana Islands"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "7CFAAC59-1042-4F5F-A7F8-A7C8AA97C81E",
+                "name": "Palau"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "F71C8E12-EDC2-4B06-9684-0C0B99C61F05",
+                "name": "Papua New Guinea"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "AAF9AB30-07DB-44D1-A265-5AC8A9B908C3",
+                "name": "Pitcairn"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "2C9AEF14-BC85-4809-A15F-82B357D29BAA",
+                "name": "Samoa"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "7F0E647C-AE8D-41F3-8F63-E8C18A389911",
+                "name": "Solomon Islands"
+                ,
+                "isOn": false
+                
+            },
+            {
+                "id": "FE7E61EB-865A-43D9-85F1-32C9E51231A9",
+                "name": "Tokelau"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "2AFD56B5-6D90-43A1-B19B-3F3910B63871",
+                "name": "Tonga"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "F6ECE9CD-725A-4043-B538-661D8697B417",
+                "name": "Tuvalu"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "77E5ECA6-F4F3-4CF0-AA7D-F33982455286",
+                "name": "United States Minor Outlying Islands"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "A98F254F-8E48-4C8D-BCAD-5848910F7F02",
+                "name": "Vanuatu"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "8A9B5766-36AC-4E36-9733-B2E850EAAF4E",
+                "name": "Wallis and Futuna"
+                ,
+                "isOn": false
+            }
+        ]
+    },
+    {
+        "name": "South America",
+        "id": "57E39CEE-7A21-4A9E-B2F8-367DCD3AEEFB",
+        "items": [
+            {
+                "id": "E46C511C-EC2F-436E-90D5-A643C9BC453A",
+                "name": "Argentina"
+                ,
+                "isOn": false
+            },
+            
+            {
+                "id": "61010003-C279-4B7E-AF5A-B6A27C47B11D",
+                "name": "Bolivia"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "5D996267-8096-4650-81C1-EDFEE77692CF",
+                "name": "Brazil"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
+                "name": "Chile"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "62906339-A1AF-4541-9ADB-7DD60AF928CC",
+                "name": "Colombia"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "3F4425CB-776F-4126-BB6F-0F83C22A01E6",
+                "name": "Ecuador"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "F1DBAF42-2FC2-44EC-87C1-CD9C86C128EC",
+                "name": "Falkland Islands"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "CB20407C-848F-4C75-965F-1CDF6C0098F7",
+                "name": "French Guiana"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "3BFFD76A-107B-4494-B10B-FA7B0F7531F7",
+                "name": "Guyana"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "AB001A46-79A6-4EEF-B815-82D8A5F6DAA6",
+                "name": "Paraguay"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "F2F71E03-025F-4529-853C-D0C0AE137CDA",
+                "name": "Peru"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "6C7FDC3D-FEF6-44BE-BC38-31A65FFC41A0",
+                "name": "Suriname"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "807D9740-D380-48CE-8622-6FFAEB1FD8E2",
+                "name": "Uruguay"
+                ,
+                "isOn": false
+            },
+            {
+                "id": "4CA69927-ABB8-433B-95F9-2AF7E2767D87",
+                "name": "Venezuela"
+                ,
+                "isOn": false
+            }
+        ]
+    }
+]
