@@ -6,64 +6,38 @@
 //
 
 import Foundation
-
+import SwiftUI
 
 class ItemSelectionViewModel: ObservableObject {
-//    @Published var countriesSection = CountriesSection()
-//    @Published var country = Country()
- 
-    //@Published private var items: [Country] = []
-    @Published var items = [Country]()
-    //@Published var countriesSection = [CountriesSection]()
     
-//    var name: String = ""
-//    
-//    @Published var size: String = "Medium"
-//    @Published var coffeName: String = ""
-
-    //@Published var countriesSection = [ItemViewModel]()
-    
-    //    @AppStorage("itemSections") var itemSections: [CountriesSection] = Bundle.main.decode([CountriesSection].self, from: "countries.json")
-    //
-    
-    private func readFile() {
-      if let url = Bundle.main.url(forResource: "countries", withExtension: "json"),
-         let data = try? Data(contentsOf: url) {
-        let decoder = JSONDecoder()
-        if let jsonData = try? decoder.decode(CountriesSection.self, from: data) {
-            self.items = jsonData.items
-        }
-      }
-    }
-  
+    @AppStorage("saved1") var itemSections: [CountriesSection] = []
     
     init(){
-        readFile()
+        if itemSections.isEmpty{
+            loadData()
+        }
     }
     
-
-
-}
-
-class ItemViewModel: ObservableObject {
-    
-    var countryS: [CountriesSection] = []
-    
-
-//    init(countryS: CountriesSection) {
-//        self.countryS = countryS
-//    }
-    var name: String {
-        return self.name
-    }
-    
-    var isOn: Bool {
-        return self.isOn
+    func loadData()  {
+        
+        guard let url = Bundle.main.url(forResource: "countries", withExtension: "json")
+        else {
+            print("Json file not found")
+            return
+        }
+        do {
+            let data = try Data(contentsOf: url)
+            let sections = try JSONDecoder().decode([CountriesSection].self, from: data)
+            //UserDefaults.standard.set(sections, forKey: "saved1")
+            self.itemSections = sections
+        } catch {
+            print("failed loading or decoding with error: ", error)
+        }
     }
     
     func getSelectedItemsCount() -> Int{
         var i: Int = 0
-        for itemSection in countryS {
+        for itemSection in itemSections {
             let filteredItems = itemSection.items.filter { item in
                 return item.isOn
             }
@@ -71,5 +45,24 @@ class ItemViewModel: ObservableObject {
         }
         return i
     }
+}
+
+extension Array: RawRepresentable where Element: Codable {
+    public init?(rawValue: String) {
+        guard let data = rawValue.data(using: .utf8),
+              let result = try? JSONDecoder().decode([Element].self, from: data)
+        else {
+            return nil
+        }
+        self = result
+    }
     
+    public var rawValue: String {
+        guard let data = try? JSONEncoder().encode(self),
+              let result = String(data: data, encoding: .utf8)
+        else {
+            return "[]"
+        }
+        return result
+    }
 }

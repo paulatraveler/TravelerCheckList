@@ -8,13 +8,9 @@
 import SwiftUI
 
 struct ItemSectionDetailedView: View {
-   
-    //    var function2: () -> Int
-    @Binding var items: [Country]
-    @AppStorage("itemSections") var itemSections: [CountriesSection] = Bundle.main.decode([CountriesSection].self, from: "countries.json")
     
-
-
+    @Binding var items: [Country]
+    
     var body: some View {
         VStack{
             ScrollView() {
@@ -31,11 +27,6 @@ struct ItemSectionDetailedView: View {
     }
 }
 
-//struct ItemSectionDetailedView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        ItemSectionDetailedView()
-//    }
-//}
 struct CheckToggleStyle: ToggleStyle {
     func makeBody(configuration: Configuration) -> some View {
         Button {
@@ -44,12 +35,11 @@ struct CheckToggleStyle: ToggleStyle {
             Label {
                 configuration.label
             } icon: {
-                Image(systemName: configuration.isOn ? "checkmark.circle.fill" : "circle")
+                Image(systemName: configuration.isOn ? "checkmark.square.fill" : "square")
                     .foregroundColor(configuration.isOn ? .accentColor : .secondary)
                     .accessibility(label: Text(configuration.isOn ? "Checked" : "Unchecked"))
                     .imageScale(.large)
             }
-        }
-        .buttonStyle(PlainButtonStyle())
+        }.buttonStyle(PlainButtonStyle())
     }
 }

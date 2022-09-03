@@ -8,10 +8,12 @@
 import SwiftUI
 
 @main
-struct TravelerCheckListApp: App {
+struct MyApp: App {
+    @StateObject var varModel = ItemSelectionViewModel()
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(varModel)
         }
     }
 }
